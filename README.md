@@ -1,3 +1,3 @@
 # Ineuron-Test
-Python Session
-Python Sessions from Ineuron
+Python Session by Krish
+This is Python Sessions from Ineuron
